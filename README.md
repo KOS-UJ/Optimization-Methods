@@ -9,3 +9,7 @@ Numpy basics: [![Open In Colab](https://colab.research.google.com/assets/colab-b
 ### Lab 2
 
 Matplotlib: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab2/Matplotlib.ipynb)
+
+### Lab 7
+
+Metoda gradientu prostego: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab7/GradientDescent.ipynb)
