@@ -18,3 +18,6 @@ Metoda gradientu prostego: [![Open In Colab](https://colab.research.google.com/a
 
 Metoda największego spadku: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab8/SteepestDescent.ipynb)
 
+### Lab 9
+
+Metoda Newtona i zmiennej metryki: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab9/Newton.ipynb)
