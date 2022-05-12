@@ -21,3 +21,7 @@ Metoda największego spadku: [![Open In Colab](https://colab.research.google.com
 ### Lab 9
 
 Metoda Newtona i zmiennej metryki: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab9/Newton.ipynb)
+
+### Lab 10
+
+Metoda kierunków sprzężonych Powella: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab10/Powell.ipynb)
