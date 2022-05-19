@@ -28,5 +28,5 @@ Metoda kierunków sprzężonych Powella: [![Open In Colab](https://colab.researc
 
 ### Lab 11
 
-Metody z ograniczeniami: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab11/OptimizationWithConstraints.ipynb)
+Metody z ograniczeniami: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab12/OptimizationWithConstraints.ipynb)
 
