@@ -25,3 +25,8 @@ Metoda Newtona i zmiennej metryki: [![Open In Colab](https://colab.research.goog
 ### Lab 10
 
 Metoda kierunków sprzężonych Powella: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab10/Powell.ipynb)
+
+### Lab 11
+
+Metody z ograniczeniami: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab11/OptimizationWithConstraints.ipynb)
+
