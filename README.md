@@ -1,10 +1,10 @@
-# Optimization-Methods
+# Metody Optymalizacji
 
 ### Lab 1
 
-Python basics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab1/PythonBasics.ipynb)
+Podstawy Pythona: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab1/PythonBasics.ipynb)
 
-Numpy basics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab1/NumpyBasics.ipynb)
+Podstawy Numpy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab1/NumpyBasics.ipynb)
 
 ### Lab 2
 
@@ -26,7 +26,10 @@ Metoda Newtona i zmiennej metryki: [![Open In Colab](https://colab.research.goog
 
 Metoda kierunków sprzężonych Powella: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab10/Powell.ipynb)
 
-### Lab 11
+### Lab 12
 
 Metody z ograniczeniami: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab12/OptimizationWithConstraints.ipynb)
 
+### Lab 13
+
+Algorytmy genetyczne: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab13/GeneticAlgorithms.ipynb)
