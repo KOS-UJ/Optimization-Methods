@@ -33,3 +33,9 @@ Metody z ograniczeniami: [![Open In Colab](https://colab.research.google.com/ass
 ### Lab 13
 
 Algorytmy genetyczne: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Optimization-Methods/blob/main/Lab13/GeneticAlgorithms.ipynb)
+
+### Na podstawie:
+
+1. Wit Romuald, Metody programowanie nieliniowego, Warszawa, Wydawnictwa naukowo-techniczne, 1986, ISBN 83-204-0687-0
+2. Hedengren John, Optimization Techniques in Engineering [online], [dostęp: 12.06.2022], Dostępny w Internecie: [http://apmonitor.com/me575/](http://apmonitor.com/me575/) 
+3. Owen Guillermo, Teoria Gier, wyd. I, przeł. Wieczorek Andrzej, Warszawa, Państwowe Wydawnictwo Naukowe, 1975
